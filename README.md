@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello! My name is Adil, I'm a self taught Machine Learning Engineer!
+
+I'm interested in Mechanistic Interpretability and model internals.
+
+Feel free to reach out on my socials if you want to talk about the above!
