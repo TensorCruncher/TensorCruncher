@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 Hello! My name is Adil, I'm a self taught Machine Learning Engineer!
 
-I'm interested in Mechanistic Interpretability and model internals.
+I'm interested in Mechanistic Interpretability, model internals and distributed deep learning.
 
 Feel free to reach out on my socials if you want to talk about the above!
