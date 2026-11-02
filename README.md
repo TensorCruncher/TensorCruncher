@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 Hello! My name is Adil, I'm a self taught Machine Learning Engineer!
 
-I'm interested in distributed inference, model internals and mechanistic interpretability.
+I'm interested in distributed inference and model internals.
 
 Feel free to reach out on my socials if you want to talk about the above!
+
+Read my thoughts at https://tensorcruncher.substack.com
